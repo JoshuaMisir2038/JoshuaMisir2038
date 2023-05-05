@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaMisir2038
-- 👀 I’m interested in machine learning, crypto, and social networks. 
+- 👀 I’m interested in machine learning. 
 - 🌱 I’m currently a CS Masters student at Cornell Tech. 
 - 📫 How to reach me: jm2448@cornell.edu
 
